@@ -27,6 +27,7 @@ modules:
   - modules/imagemagick.yml
   - modules/innoextract.yml
   - modules/jq.yml
+  - modules/pev.yml
   - modules/xdotool.yml
   - modules/xprop.yml
   - modules/xxd.yml
