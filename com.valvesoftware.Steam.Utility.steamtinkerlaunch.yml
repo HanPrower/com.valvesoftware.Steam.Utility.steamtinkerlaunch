@@ -24,6 +24,7 @@ cleanup:
 
 modules:
   - modules/git.yml
+  - modules/imagemagick.yml
   - modules/innoextract.yml
   - modules/jq.yml
   - modules/xdotool.yml
